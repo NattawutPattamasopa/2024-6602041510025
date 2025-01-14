@@ -1,0 +1,10 @@
+POST http://localhost:8080/api/subjects 
+Content-Type: application/json 
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywiaWF0IjoxNzM2ODIxNjc4LCJleHAiOjE3Mzk0MTM2Nzh9.0_YdpH33Z6yWqn2KVi4JPRjd0FieqQiOd8C9RawEVQM
+
+{
+"data":{
+"name":"Cyber Security"
+}
+
+}
